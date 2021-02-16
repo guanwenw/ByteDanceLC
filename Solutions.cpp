@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // 	977	Squares of a Sorted Array
+    // 977 Squares of a Sorted Array
     vector<int> sortedSquares(vector<int>& nums) {
         int n = nums.size();
         vector<int> ans(n);
